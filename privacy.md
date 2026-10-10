@@ -1,0 +1,1 @@
+the app accesses only the account that authorizes it, reads pins and boards to find duplicates, deletes pins only when the user chooses, and keeps tokens and data locally without sharing them with anyone.
